@@ -6,7 +6,7 @@ The GMeet-Clone project is a replica of Google Meet, providing real-time video c
 
 ## Author
 
-- [@SatyamJais10](https://github.com/anand7061)
+- [@anand7061](https://github.com/anand7061)
 
 
 ## Features
