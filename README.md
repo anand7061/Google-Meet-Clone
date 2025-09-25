@@ -4,10 +4,10 @@
 
 The GMeet-Clone project is a replica of Google Meet, providing real-time video conferencing, chat functionality, screen sharing, and file-sharing capabilities. Developed using WebRTC, this project enables seamless remote collaboration by mimicking the core features of Google Meet.
 
-## Project Team
+## Author
 
-- [@SatyamJais10](https://github.com/SatyamJais10)
-- [@sriyareddy23](https://github.com/sriyareddy23)
+- [@SatyamJais10](https://github.com/anand7061)
+
 
 ## Features
 
@@ -31,7 +31,7 @@ The GMeet-Clone project is a replica of Google Meet, providing real-time video c
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/gmeet-clone.git
+    git clone https://github.com/anand7061/Google-Meet-Clone.git
     ```
 
 2. **Navigate to the Project Directory**:
